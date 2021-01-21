@@ -10,6 +10,7 @@
 		<td style="border-style: none;text-align: right;"><a href="https://github.com/rafael977">github.com/rafael977</a></td>
 	</tr>
 </table>
+
 ## Summary
 
 Fullstack developer with 6+ years experience, specialised in backend API development. Quick and constant learner who is aiming to become a software architect.
