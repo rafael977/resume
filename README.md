@@ -10,7 +10,6 @@
 		<td style="border-style: none;text-align: right;"><a href="https://github.com/rafael977">github.com/rafael977</a></td>
 	</tr>
 </table>
-
 ## Summary
 
 Fullstack developer with 6+ years experience, specialised in backend API development. Quick and constant learner who is aiming to become a software architect.
@@ -23,14 +22,12 @@ May 2020 - Present
 
 ###### RoTF Team
 
-- Develop backend services for Mercedes-Benz Sales Transaction System using C# and .NET core stack
-
-- Use Docker as the solution for containerized microservices architecture, with Docker Swarm as the container orchestration solution
-
-- Practice agile in development
-
-- Constantly providing suggestions to improve the system, such as introducing MQ for handling integration events, taking PoC for exploring CQRS pattern in implementing microservices, etc
-
+- Develop backend services for Mercedes-Benz Sales Transaction System using C# and .NET Core technical stack
+- Use Docker for containerized microservices architecture, with Docker Swarm as the container orchestration
+- Apply agile methodology in development
+- Constantly providing suggestions to improve the system, such as introducing MQ for asynchronously handling certain requests, taking PoC for exploring CQRS pattern in implementing microservices, improving SQL query for boosting search speed by 100%, and so on
+- Writing unit tests and watch out and fix code smells to improve code quality
+- Guide other colleagues on some technical problems
 - Providing product support and solved several critical issues, include one that impacting scalability of microservices
 
 #### Senior Software Engineer
@@ -48,6 +45,7 @@ with C# and .Net Framework
 feasibility reports on tackling practical problems
 - Developed internal administration web application using ASP.NET MVC, for services and data management
 - Managing testing environment databases and reviewing scripts for production deployment
+- Tutoring junior developers on technical skills
 
 ###### CCDP Team
 - Soloed in developing the backend service that serve as a part of the improvement for SingHealth patient
@@ -108,3 +106,7 @@ https://freecodecamp.org/certification/fccc6291064-c268-4466-b54e-398842cf942e/j
 
 #### FCC Certification for Front End Libraries
 https://freecodecamp.org/certification/fccc6291064-c268-4466-b54e-398842cf942e/front-end-libraries
+
+#### FCC Certification foe APIs and Microservices
+
+https://www.freecodecamp.org/certification/fccc6291064-c268-4466-b54e-398842cf942e/apis-and-microservices
